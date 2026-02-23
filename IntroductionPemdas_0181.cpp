@@ -12,5 +12,7 @@ int main(){ //program data
     age1 = 15;
 
     cout << "Hello World!" << endl;
+    cout << 99 << endl;
+    
   
 }//selesai
