@@ -13,6 +13,7 @@ int main(){ //program data
 
     cout << "Hello World!" << endl;
     cout << 99 << endl;
-    
+    cout << age;
+
   
 }//selesai
