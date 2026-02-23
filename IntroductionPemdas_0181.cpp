@@ -10,5 +10,7 @@ int main(){ //program data
     int age1; //variable local
     age = 20;
     age1 = 15;
+
+    cout << "Hello World!" << endl;
   
 }//selesai
