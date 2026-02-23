@@ -8,5 +8,6 @@ string nama;
 int main(){ //program data
     int age; //variable local
     int age1; //variable local
+    age = 20
   
 }//selesai
